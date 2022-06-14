@@ -1,4 +1,4 @@
-# GSoC 22 - OpenMRS Android Client 3.0.x
+# GSoC '22 - OpenMRS Android Client 3.0.x
 This repository contains my weekly work done and updates regarding Google Summer of Code 2022 OpenMRS Android Client Project.
 
 <br>
@@ -14,7 +14,7 @@ This repository contains my weekly work done and updates regarding Google Summer
 
 |    Week     |      Article Link   |
 |-------------------|---------------------|
-|Week 0||
+|Week 0|https://medium.com/@amrsalah3/week-0-gsoc-with-openmrs-2022-9ddb49ec4934|
 |Week 1||
 |Week 2||
 |Week 3||
