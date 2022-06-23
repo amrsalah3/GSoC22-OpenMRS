@@ -15,8 +15,8 @@ This repository contains my weekly work done and updates regarding Google Summer
 |    Week     |      Article Link   |
 |-------------------|---------------------|
 |Week 0|https://medium.com/@amrsalah3/week-0-gsoc-with-openmrs-2022-9ddb49ec4934|
-|Week 1||
-|Week 2||
+|Week 1|https://medium.com/@amrsalah3/week-1-gsoc-with-openmrs-2022-4b8fee5ce258|
+|Week 2|https://medium.com/@amrsalah3/week-2-gsoc-with-openmrs-2022-6619596c6499|
 |Week 3||
 |Week 4||
 |Week 5||
@@ -40,4 +40,16 @@ This repository contains my weekly work done and updates regarding Google Summer
 
 |    Issue Number     |     Issue Link    |      Status        |
 |-------------------|---------------------------|--------------------|
-|||
+|AC-1027|https://issues.openmrs.org/browse/AC-1027 | Needs Assessment |
+|AC-1028|https://issues.openmrs.org/browse/AC-1028 | Needs Assessment |
+|AC-1029|https://issues.openmrs.org/browse/AC-1029 | Needs Assessment |
+|AC-1030|https://issues.openmrs.org/browse/AC-1030 | Needs Assessment |
+
+### Week 2
+
+|    Issue Number     |     PR Link    |      Status        |
+|-------------------|---------------------------|--------------------|
+|AC-1027|https://github.com/openmrs/openmrs-contrib-android-client/pull/948 | Under Review |
+|AC-1028|https://github.com/openmrs/openmrs-contrib-android-client/pull/945 | Under Review |
+|AC-1029|https://github.com/openmrs/openmrs-contrib-android-client/pull/947 | Under Review |
+
