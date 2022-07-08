@@ -40,16 +40,16 @@ This repository contains my weekly work done and updates regarding Google Summer
 
 |    Issue Number     |     Issue Link    |      Status        |
 |-------------------|---------------------------|--------------------|
-|AC-1027|https://issues.openmrs.org/browse/AC-1027 | Needs Assessment |
-|AC-1028|https://issues.openmrs.org/browse/AC-1028 | Needs Assessment |
-|AC-1029|https://issues.openmrs.org/browse/AC-1029 | Needs Assessment |
-|AC-1030|https://issues.openmrs.org/browse/AC-1030 | Needs Assessment |
+|AC-1027|https://issues.openmrs.org/browse/AC-1027 | Under Review |
+|AC-1028|https://issues.openmrs.org/browse/AC-1028 | Resolved |
+|AC-1029|https://issues.openmrs.org/browse/AC-1029 | Resolved |
+|AC-1030|https://issues.openmrs.org/browse/AC-1030 | Ready For Work |
 
 ### Week 2
 
 |    Issue Number     |     PR Link    |      Status        |
 |-------------------|---------------------------|--------------------|
 |AC-1027|https://github.com/openmrs/openmrs-contrib-android-client/pull/948 | Under Review |
-|AC-1028|https://github.com/openmrs/openmrs-contrib-android-client/pull/945 | Under Review |
-|AC-1029|https://github.com/openmrs/openmrs-contrib-android-client/pull/947 | Under Review |
+|AC-1028|https://github.com/openmrs/openmrs-contrib-android-client/pull/945 | Merged |
+|AC-1029|https://github.com/openmrs/openmrs-contrib-android-client/pull/947 | Merged |
 
