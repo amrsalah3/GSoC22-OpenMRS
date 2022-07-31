@@ -21,7 +21,7 @@ This repository contains my weekly work done and updates regarding Google Summer
 |Week 4|https://medium.com/@amrsalah3/week-4-gsoc-with-openmrs-2022-3b88c2f0feaf|
 |Week 5|https://medium.com/@amrsalah3/week-5-gsoc-with-openmrs-2022-903ff6160150|
 |Week 6|https://medium.com/@amrsalah3/week-6-gsoc-with-openmrs-2022-c56f303d86cb|
-|Week 7||
+|Week 7|https://medium.com/@amrsalah3/week-7-gsoc-with-openmrs-2022-de1997f195db|
 |Week 8||
 |Week 9||
 |Week 10||
