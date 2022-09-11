@@ -34,7 +34,7 @@ This repository contains my weekly work done and updates regarding Google Summer
 
 
 
-## JIRA Tickets
+## Work Done
 
 ### Week 1
 
