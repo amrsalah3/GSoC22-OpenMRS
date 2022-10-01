@@ -30,7 +30,7 @@ This repository contains my weekly work done and updates regarding Google Summer
 |Week 13|https://medium.com/@amrsalah3/week-13-gsoc-with-openmrs-2022-a15bd01424f1|
 |Week 14|https://medium.com/@amrsalah3/week-14-gsoc-with-openmrs-2022-577e9531dc07|
 |Week 15|https://medium.com/@amrsalah3/week-15-gsoc-with-openmrs-2022-111e2229938c|
-|Week 16||
+|Week 16|https://medium.com/@amrsalah3/week-16-gsoc-with-openmrs-2022-535d3b5034f7|
 |Week 17||
 |Week 18||
 |Week 19||
@@ -110,10 +110,10 @@ This repository contains my weekly work done and updates regarding Google Summer
 
 |    Issue Number     |     PR Link    |      Status        |
 |-------------------|---------------------------|--------------------|
-|AC-1039|https://github.com/openmrs/openmrs-contrib-android-client/pull/960 | Under Review |
-|AC-1040|https://github.com/openmrs/openmrs-contrib-android-client/pull/961 | Under Review |
-|AC-1041|https://github.com/openmrs/openmrs-contrib-android-client/pull/962 | Under Review |
-|AC-1042|https://github.com/openmrs/openmrs-contrib-android-client/pull/963 | Under Review |
+|AC-1039|https://github.com/openmrs/openmrs-contrib-android-client/pull/960 | Merged |
+|AC-1040|https://github.com/openmrs/openmrs-contrib-android-client/pull/961 | Merged |
+|AC-1041|https://github.com/openmrs/openmrs-contrib-android-client/pull/962 | Merged |
+|AC-1042|https://github.com/openmrs/openmrs-contrib-android-client/pull/963 | Merged |
 
 
 ### Week 15
@@ -121,5 +121,15 @@ This repository contains my weekly work done and updates regarding Google Summer
 
 |    Issue Number     |     PR Link    |      Status        |
 |-------------------|---------------------------|--------------------|
-|AC-1043|https://github.com/openmrs/openmrs-contrib-android-client/pull/964 | Under Review |
+|AC-1043|https://github.com/openmrs/openmrs-contrib-android-client/pull/964 | Merged |
+
+
+
+### Week 15
+
+
+|    Issue Number     |     PR Link    |      Status        |
+|-------------------|---------------------------|--------------------|
+|AC-1044|https://github.com/openmrs/openmrs-contrib-android-client/pull/966 | Under Review |
+|AC-1045|https://github.com/openmrs/openmrs-contrib-android-client/pull/967 | Under Review |
 
