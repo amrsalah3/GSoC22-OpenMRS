@@ -149,7 +149,7 @@ This repository contains my weekly work done and updates regarding Google Summer
 |    Issue Number     |     PR Link    |      Status        |
 |-------------------|---------------------------|--------------------|
 |AC-1048|https://github.com/openmrs/openmrs-contrib-android-client/pull/969 | Merged |
-|AC-1049|https://github.com/openmrs/openmrs-contrib-android-client/pull/970 | Under Review |
+|AC-1049|https://github.com/openmrs/openmrs-contrib-android-client/pull/970 | Merged |
 
 
 
@@ -158,7 +158,7 @@ This repository contains my weekly work done and updates regarding Google Summer
 
 |    Issue Number     |     PR Link    |      Status        |
 |-------------------|---------------------------|--------------------|
-|AC-1050|https://github.com/openmrs/openmrs-contrib-android-client/pull/971 | Under Review |
+|AC-1050|https://github.com/openmrs/openmrs-contrib-android-client/pull/971 | Merged |
 
 
 
@@ -167,5 +167,5 @@ This repository contains my weekly work done and updates regarding Google Summer
 
 |    Issue Number     |     PR Link    |      Status        |
 |-------------------|---------------------------|--------------------|
-|AC-1046|https://github.com/openmrs/openmrs-contrib-android-client/pull/972 | Under Review |
+|AC-1046|https://github.com/openmrs/openmrs-contrib-android-client/pull/973 | Merged |
 
