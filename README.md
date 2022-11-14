@@ -2,20 +2,20 @@
 This repository contains my weekly work done, updates, and the final report regarding ***Google Summer of Code, 2022 @[OpenMRS](https://github.com/openmrs)***.
 
 - Project Title: **OpenMRS Android Client 3.0.x**
-- Primary mentor: [Rohit Sharma](https://github.com/Rohit-2602)
+- Mentor: [Rohit Sharma](https://github.com/Rohit-2602)
 - Contributor: [Amr Salaheddin Abdelhady](https://github.com/amrsalah3)
 - Project Link: [OpenMRS Wiki Page](https://wiki.openmrs.org/display/RES/Summer+Of+Code+2022) - [GSoC Site](https://summerofcode.withgoogle.com/programs/2022/projects/BoaDmn9n)
 
 ## Overview
-The main objective of the project is to migrate the whole architecture of the Android Client Project from MVP to MVVM so that it makes the app more robust, scalable, easier to test, and make the codebase cleaner and easier to understand for the newcomers. I've completed this objective and some of the other side objectives (Dependency injection using Hilt, and migrating from Java to Kotlin (24% to 59%)). What's left to do is to continue converting the rest of the codebase (41%) from Java to Kotlin, and increasing the test coverage in the project.
+The main objective of the project is to migrate the whole architecture of the Android Client Project from MVP to MVVM so that it makes the app more robust, scalable, easier to test, and make the codebase cleaner and easier to understand for newcomers. I've completed this objective and some of the other side objectives (Dependency injection using Hilt, and migrating from Java to Kotlin (24% to 59%)). What's left to do is to continue converting the rest of the codebase (41%) from Java to Kotlin, and increasing the test coverage in the project.
 
 ## Objectives
 **Primary:**
 1. Migrate the architecture of the app from MVP to MVVM. (COMPLETED)
 **Additional:**
-1. Integrate depenency injection using Hilt. (COMPLETED)
+1. Integrate dependency injection using Hilt. (COMPLETED)
 2. Migrate codebase from Java to Kotlin (60%). (COMPLETED)
-3. Increase test coverage in the project. (INCOMPLETED)
+3. Increase test coverage in the project. (INCOMPLETE)
 
 ## Contributions & Work Done
 
@@ -222,10 +222,10 @@ The main objective of the project is to migrate the whole architecture of the An
 - Increase test coverage in the project.
 - Migrate the rest of the codebase (40%) from Java to Kotlin.
 - Update OpenMRS Android SDK library to the latest changes.
-- Fix the Continuous Integration checks for the PRs in Android Client's GitHub repository because they ignores the failing tests. 
+- Fix the Continuous Integration checks for the PRs in Android Client's GitHub repository because they ignore the failing tests. 
 - Add guidelines regarding the architecture and patterns followed in the project for any future contributions (for more consistency).
 
 ## Thoughts on GSoC
 
-Lastly, I would like to thank my mentor, the org admins, and community members for their continuous support and help during the project. It was so  exciting to be working on this project with this wonderful community! I learned alot during this project and would like to thank Google for this great experience.
+Lastly, I would like to thank my mentor, the org admins, and community members for their continuous support and help during the project. It was so exciting to be working on this project with this wonderful community! I learned a lot during this project and would like to thank Google for this great experience.
 
