@@ -1,4 +1,4 @@
-# GSoC '22 - OpenMRS Android Client Project 3.0.x
+# GSoC 2022 - OpenMRS Android Client Project 3.0.x
 This repository contains my weekly work done, updates, and the final report regarding ***Google Summer of Code, 2022 @[OpenMRS](https://github.com/openmrs)***.
 
 - Project Title: **OpenMRS Android Client 3.0.x**
