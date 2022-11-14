@@ -1,45 +1,23 @@
-# GSoC '22 - OpenMRS Android Client 3.0.x
-This repository contains my weekly work done and updates regarding Google Summer of Code 2022 OpenMRS Android Client Project.
+# GSoC '22 - OpenMRS Android Client Project 3.0.x
+This repository contains my weekly work done, updates, and the final report regarding ***Google Summer of Code, 2022 @[OpenMRS](https://github.com/openmrs)***.
 
-<br>
+- Project Title: **OpenMRS Android Client 3.0.x**
+- Primary mentor: [Rohit Sharma](https://github.com/Rohit-2602)
+- Contributor: [Amr Salaheddin Abdelhady](https://github.com/amrsalah3)
+- Project Link: [OpenMRS Wiki Page](https://wiki.openmrs.org/display/RES/Summer+Of+Code+2022) - [GSoC Site](https://summerofcode.withgoogle.com/programs/2022/projects/BoaDmn9n)
 
-## Community Discussion 
+## Overview
+The main objective of the project is to migrate the whole architecture of the Android Client Project from MVP to MVVM so that it makes the app more robust, scalable, easier to test, and make the codebase cleaner and easier to understand for the newcomers. I've completed this objective and some of the other side objectives (Dependency injection using Hilt, and migrating from Java to Kotlin (24% to 59%)). What's left to do is to continue converting the rest of the codebase (41%) from Java to Kotlin, and increasing the test coverage in the project.
 
-* Community discussion thread for the project on OpenMRS Talk is [here](https://talk.openmrs.org/t/gsoc-2022-android-project-discussion/36811/).
+## Objectives
+**Primary:**
+1. Migrate the architecture of the app from MVP to MVVM. (COMPLETED)
+**Additional:**
+1. Integrate depenency injection using Hilt. (COMPLETED)
+2. Migrate codebase from Java to Kotlin (60%). (COMPLETED)
+3. Increase test coverage in the project. (INCOMPLETED)
 
-<br>
-
-## Medium Articles (Weekly Updates)
-
-
-|    Week     |      Article Link   |
-|-------------------|---------------------|
-|Week 0|https://medium.com/@amrsalah3/week-0-gsoc-with-openmrs-2022-9ddb49ec4934|
-|Week 1|https://medium.com/@amrsalah3/week-1-gsoc-with-openmrs-2022-4b8fee5ce258|
-|Week 2|https://medium.com/@amrsalah3/week-2-gsoc-with-openmrs-2022-6619596c6499|
-|Week 3|https://medium.com/@amrsalah3/week-3-gsoc-with-openmrs-2022-87b6f8267c2c|
-|Week 4|https://medium.com/@amrsalah3/week-4-gsoc-with-openmrs-2022-3b88c2f0feaf|
-|Week 5|https://medium.com/@amrsalah3/week-5-gsoc-with-openmrs-2022-903ff6160150|
-|Week 6|https://medium.com/@amrsalah3/week-6-gsoc-with-openmrs-2022-c56f303d86cb|
-|Week 7|https://medium.com/@amrsalah3/week-7-gsoc-with-openmrs-2022-de1997f195db|
-|Week 8|https://medium.com/@amrsalah3/week-8-gsoc-with-openmrs-2022-c9a7745dd5a7|
-|Week 9|https://medium.com/@amrsalah3/week-9-gsoc-with-openmrs-2022-bbbe1ba3a6fb|
-|Week 10|https://medium.com/@amrsalah3/week-10-gsoc-with-openmrs-2022-19827e8adff5|
-|Week 11|https://medium.com/@amrsalah3/week-11-gsoc-with-openmrs-2022-2f92c2ff31ed|
-|Week 12|https://medium.com/@amrsalah3/week-12-gsoc-with-openmrs-2022-b28f87002561|
-|Week 13|https://medium.com/@amrsalah3/week-13-gsoc-with-openmrs-2022-a15bd01424f1|
-|Week 14|https://medium.com/@amrsalah3/week-14-gsoc-with-openmrs-2022-577e9531dc07|
-|Week 15|https://medium.com/@amrsalah3/week-15-gsoc-with-openmrs-2022-111e2229938c|
-|Week 16|https://medium.com/@amrsalah3/week-16-gsoc-with-openmrs-2022-535d3b5034f7|
-|Week 17|https://medium.com/@amrsalah3/week-17-gsoc-with-openmrs-2022-212cb413dc9a|
-|Week 18|https://medium.com/@amrsalah3/week-18-gsoc-with-openmrs-2022-d6ee21efe651|
-|Week 19|https://medium.com/@amrsalah3/week-19-gsoc-with-openmrs-2022-737b7d5e5116|
-|Week 20|https://medium.com/@amrsalah3/week-20-gsoc-with-openmrs-2022-898501aeed28|
-|Week 21|https://medium.com/@amrsalah3/week-21-gsoc-with-openmrs-2022-b19b6aae04b9|
-|Week 22|https://medium.com/@amrsalah3/week-22-gsoc-with-openmrs-2022-b6761d3e4432|
-
-
-## Work Done
+## Contributions & Work Done
 
 ### Week 1
 
@@ -48,7 +26,7 @@ This repository contains my weekly work done and updates regarding Google Summer
 |AC-1027|https://issues.openmrs.org/browse/AC-1027 | Resolved |
 |AC-1028|https://issues.openmrs.org/browse/AC-1028 | Resolved |
 |AC-1029|https://issues.openmrs.org/browse/AC-1029 | Resolved |
-|AC-1030|https://issues.openmrs.org/browse/AC-1030 | Ready For Work |
+|AC-1030|https://issues.openmrs.org/browse/AC-1030 | Resolved |
 
 ### Week 2-3-4
 
@@ -191,4 +169,63 @@ This repository contains my weekly work done and updates regarding Google Summer
 |AC-1056|https://github.com/openmrs/openmrs-contrib-android-client/pull/980 | Under Review |
 |AC-1057|https://github.com/openmrs/openmrs-contrib-android-client/pull/981 | Under Review |
 |AC-1058|https://github.com/openmrs/openmrs-contrib-android-client/pull/982 | Under Review |
+
+**Talk Thread links**:
+
+ - https://talk.openmrs.org/t/gsoc-2022-android-project-discussion/36811/11
+
+ - https://talk.openmrs.org/t/newly-registered-patients-default-allergy-value/37228/21
+
+ - https://talk.openmrs.org/t/how-to-fetch-last-viewed-patients-via-restful-api/37285/10
+
+ - https://talk.openmrs.org/t/gsoc-2022-contributor-blogs/36915/76
+
+## Weekly Blogs (Updates)
+
+|    Week     |      Article Link   |
+|-------------------|---------------------|
+|Week 0|https://medium.com/@amrsalah3/week-0-gsoc-with-openmrs-2022-9ddb49ec4934|
+|Week 1|https://medium.com/@amrsalah3/week-1-gsoc-with-openmrs-2022-4b8fee5ce258|
+|Week 2|https://medium.com/@amrsalah3/week-2-gsoc-with-openmrs-2022-6619596c6499|
+|Week 3|https://medium.com/@amrsalah3/week-3-gsoc-with-openmrs-2022-87b6f8267c2c|
+|Week 4|https://medium.com/@amrsalah3/week-4-gsoc-with-openmrs-2022-3b88c2f0feaf|
+|Week 5|https://medium.com/@amrsalah3/week-5-gsoc-with-openmrs-2022-903ff6160150|
+|Week 6|https://medium.com/@amrsalah3/week-6-gsoc-with-openmrs-2022-c56f303d86cb|
+|Week 7|https://medium.com/@amrsalah3/week-7-gsoc-with-openmrs-2022-de1997f195db|
+|Week 8|https://medium.com/@amrsalah3/week-8-gsoc-with-openmrs-2022-c9a7745dd5a7|
+|Week 9|https://medium.com/@amrsalah3/week-9-gsoc-with-openmrs-2022-bbbe1ba3a6fb|
+|Week 10|https://medium.com/@amrsalah3/week-10-gsoc-with-openmrs-2022-19827e8adff5|
+|Week 11|https://medium.com/@amrsalah3/week-11-gsoc-with-openmrs-2022-2f92c2ff31ed|
+|Week 12|https://medium.com/@amrsalah3/week-12-gsoc-with-openmrs-2022-b28f87002561|
+|Week 13|https://medium.com/@amrsalah3/week-13-gsoc-with-openmrs-2022-a15bd01424f1|
+|Week 14|https://medium.com/@amrsalah3/week-14-gsoc-with-openmrs-2022-577e9531dc07|
+|Week 15|https://medium.com/@amrsalah3/week-15-gsoc-with-openmrs-2022-111e2229938c|
+|Week 16|https://medium.com/@amrsalah3/week-16-gsoc-with-openmrs-2022-535d3b5034f7|
+|Week 17|https://medium.com/@amrsalah3/week-17-gsoc-with-openmrs-2022-212cb413dc9a|
+|Week 18|https://medium.com/@amrsalah3/week-18-gsoc-with-openmrs-2022-d6ee21efe651|
+|Week 19|https://medium.com/@amrsalah3/week-19-gsoc-with-openmrs-2022-737b7d5e5116|
+|Week 20|https://medium.com/@amrsalah3/week-20-gsoc-with-openmrs-2022-898501aeed28|
+|Week 21|https://medium.com/@amrsalah3/week-21-gsoc-with-openmrs-2022-b19b6aae04b9|
+|Week 22|https://medium.com/@amrsalah3/week-22-gsoc-with-openmrs-2022-b6761d3e4432|
+
+## Resources
+- OpenMRS Android Client Project Repository - [Link](https://github.com/openmrs/openmrs-contrib-android-client)
+- My Forked Repository (contains latest work) - [Link](https://github.com/amrsalah3/openmrs-contrib-android-client)
+- Android Client Users Guide - [Link](https://openmrs.github.io/openmrs-android-client-user-guide)
+- OpenMRS Android Client Project JIRA - [Link](https://issues.openmrs.org/projects/AC/issues?orderby=created)
+- Project Wiki Page - [Link](https://wiki.openmrs.org/display/projects/GSoC+2022+%3A+OpenMRS+Android+Client+Project+3.0.x)
+- Project Report - [Link](https://github.com/amrsalah3/GSoC22-OpenMRS/edit/main/README.md)
+
+## [Final Presentation Video](https://drive.google.com/file/d/1JEWYtm7teTkSrFvExKU68obWo2rqqJ0q)
+
+## Future Work
+- Increase test coverage in the project.
+- Migrate the rest of the codebase (40%) from Java to Kotlin.
+- Update OpenMRS Android SDK library to the latest changes.
+- Fix the Continuous Integration checks for the PRs in Android Client's GitHub repository because they ignores the failing tests. 
+- Add guidelines regarding the architecture and patterns followed in the project for any future contributions (for more consistency).
+
+## Thoughts on GSoC
+
+Lastly, I would like to thank my mentor, the org admins, and community members for their continuous support and help during the project. It was so  exciting to be working on this project with this wonderful community! I learned alot during this project and would like to thank Google for this great experience.
 
