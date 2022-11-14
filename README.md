@@ -12,6 +12,7 @@ The main objective of the project is to migrate the whole architecture of the An
 ## Objectives
 **Primary:**
 1. Migrate the architecture of the app from MVP to MVVM. (COMPLETED)
+
 **Additional:**
 1. Integrate dependency injection using Hilt. (COMPLETED)
 2. Migrate codebase from Java to Kotlin (60%). (COMPLETED)
