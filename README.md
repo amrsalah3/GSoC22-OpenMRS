@@ -7,7 +7,7 @@ This repository contains my weekly work done, updates, and the final report rega
 - Project Link: [OpenMRS Wiki Page](https://wiki.openmrs.org/display/RES/Summer+Of+Code+2022) - [GSoC Site](https://summerofcode.withgoogle.com/programs/2022/projects/BoaDmn9n)
 
 ## Overview
-The main objective of the project is to migrate the whole architecture of the Android Client Project from MVP to MVVM so that it makes the app more robust, scalable, easier to test, and make the codebase cleaner and easier to understand for newcomers. I've completed this objective and some of the other side objectives (Dependency injection using Hilt, and migrating from Java to Kotlin (24% to 59%)). What's left to do is to continue converting the rest of the codebase (41%) from Java to Kotlin, and increasing the test coverage in the project.
+<p align="justify">The main objective of the project is to migrate the whole architecture of the Android Client Project from MVP to MVVM so that it makes the app more robust, scalable, easier to test, and make the codebase cleaner and easier to understand for newcomers. I've completed this objective and some of the other side objectives (Dependency injection using Hilt, and migrating from Java to Kotlin (24% to 59%)). What's left to do is to continue converting the rest of the codebase (41%) from Java to Kotlin, and increasing the test coverage in the project.</p>
 
 ## Objectives
 **Primary:**
