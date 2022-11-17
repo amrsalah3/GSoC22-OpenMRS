@@ -4,7 +4,7 @@ This repository contains my weekly work done, updates, and the final report rega
 - Project Title: **OpenMRS Android Client 3.0.x**
 - Mentor: [Rohit Sharma](https://github.com/Rohit-2602)
 - Contributor: [Amr Salaheddin Abdelhady](https://github.com/amrsalah3)
-- Project Link: [OpenMRS Wiki Page](https://wiki.openmrs.org/display/RES/Summer+Of+Code+2022) - [GSoC Site](https://summerofcode.withgoogle.com/programs/2022/projects/BoaDmn9n)
+- Project Link: [OpenMRS Wiki Page](https://wiki.openmrs.org/display/projects/GSoC+2022+%3A+OpenMRS+Android+Client+Project+3.0.x) - [GSoC Site](https://summerofcode.withgoogle.com/programs/2022/projects/BoaDmn9n)
 
 ## Overview
 <p align="justify">The main objective of the project is to migrate the whole architecture of the Android Client Project from MVP to MVVM so that it makes the app more robust, scalable, easier to test, and make the codebase cleaner and easier to understand for newcomers. I've completed this objective and some of the other side objectives (Dependency injection using Hilt, and migrating from Java to Kotlin (24% to 59%)). What's left to do is to continue converting the rest of the codebase (41%) from Java to Kotlin, and increasing the test coverage in the project.</p>
@@ -16,7 +16,8 @@ This repository contains my weekly work done, updates, and the final report rega
 **Additional:**
 1. Integrate dependency injection using Hilt. (COMPLETED)
 2. Migrate codebase from Java to Kotlin (60%). (COMPLETED)
-3. Increase test coverage in the project. (INCOMPLETE)
+3. Make the app more stable, and reduce bugs and crashes. (COMPLETED)
+4. Increase test coverage in the project. (INCOMPLETE)
 
 ## Contributions & Work Done
 
