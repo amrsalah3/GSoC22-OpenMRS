@@ -2,12 +2,12 @@
 This repository contains my weekly work done, updates, and the final report regarding ***Google Summer of Code, 2022 @[OpenMRS](https://github.com/openmrs)***.
 
 - Project Title: **OpenMRS Android Client 3.0.x**
-- Mentor: [Rohit Sharma](https://github.com/Rohit-2602)
 - Contributor: [Amr Salaheddin Abdelhady](https://github.com/amrsalah3)
+- Email: amrhady3@gmail.com
 - Project Link: [OpenMRS Wiki Page](https://wiki.openmrs.org/display/projects/GSoC+2022+%3A+OpenMRS+Android+Client+Project+3.0.x) - [GSoC Site](https://summerofcode.withgoogle.com/programs/2022/projects/BoaDmn9n)
 
 ## Overview
-<p align="justify">The main objective of the project is to migrate the whole architecture of the Android Client Project from MVP to MVVM so that it makes the app more robust, scalable, easier to test, and make the codebase cleaner and easier to understand for newcomers. I've completed this objective and some of the other side objectives (Dependency injection using Hilt, and migrating from Java to Kotlin (24% to 59%)). What's left to do is to continue converting the rest of the codebase (41%) from Java to Kotlin, and increasing the test coverage in the project.</p>
+<p align="justify">The main objective of the project is to migrate the whole architecture of the Android Client Project from MVP to MVVM so that it makes the app more robust, scalable, easier to test, and make the codebase cleaner and easier to understand for newcomers. I've completed this objective and some of the other side objectives (Dependency injection using Hilt, making the app more stable reducing bugs, and migrating from Java to Kotlin (24% to 59%)). What's left to do is to continue converting the rest of the codebase (41%) from Java to Kotlin, and increasing the test coverage in the project.</p>
 
 ## Objectives
 **Primary:**
