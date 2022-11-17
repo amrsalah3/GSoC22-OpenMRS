@@ -174,11 +174,11 @@ This repository contains my weekly work done, updates, and the final report rega
 
 **Talk Thread links**:
 
- - https://talk.openmrs.org/t/gsoc-2022-android-project-discussion/36811/11
+ - https://talk.openmrs.org/t/gsoc-2022-android-project-discussion
 
- - https://talk.openmrs.org/t/newly-registered-patients-default-allergy-value/37228/21
+ - https://talk.openmrs.org/t/newly-registered-patients-default-allergy-value
 
- - https://talk.openmrs.org/t/how-to-fetch-last-viewed-patients-via-restful-api/37285/10
+ - https://talk.openmrs.org/t/how-to-fetch-last-viewed-patients-via-restful-api
 
  - https://talk.openmrs.org/t/gsoc-2022-contributor-blogs/36915/76
 
