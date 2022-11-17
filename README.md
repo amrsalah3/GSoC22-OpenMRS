@@ -214,9 +214,10 @@ This repository contains my weekly work done, updates, and the final report rega
 - OpenMRS Android Client Project Repository - [Link](https://github.com/openmrs/openmrs-contrib-android-client)
 - My Forked Repository (contains latest work) - [Link](https://github.com/amrsalah3/openmrs-contrib-android-client)
 - Android Client Users Guide - [Link](https://openmrs.github.io/openmrs-android-client-user-guide)
+- The server used during the project (*qa-refapp*, NOT *demo* server) - [Link](https://qa-refapp.openmrs.org)
 - OpenMRS Android Client Project JIRA - [Link](https://issues.openmrs.org/projects/AC/issues?orderby=created)
 - Project Wiki Page - [Link](https://wiki.openmrs.org/display/projects/GSoC+2022+%3A+OpenMRS+Android+Client+Project+3.0.x)
-- Project Report - [Link](https://github.com/amrsalah3/GSoC22-OpenMRS/edit/main/README.md)
+- Project Report - [Link](https://github.com/amrsalah3/GSoC22-OpenMRS)
 
 ## [Final Presentation Video](https://drive.google.com/file/d/1JEWYtm7teTkSrFvExKU68obWo2rqqJ0q)
 
