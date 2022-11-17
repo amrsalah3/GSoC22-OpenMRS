@@ -163,13 +163,13 @@ This repository contains my weekly work done, updates, and the final report rega
 
 |    Issue Number     |     PR Link    |      Status        |
 |-------------------|---------------------------|--------------------|
-|AC-1052|https://github.com/openmrs/openmrs-contrib-android-client/pull/976 | Under Review |
-|AC-1053|https://github.com/openmrs/openmrs-contrib-android-client/pull/977 | Under Review |
-|AC-1054|https://github.com/openmrs/openmrs-contrib-android-client/pull/978 | Under Review |
-|AC-1055|https://github.com/openmrs/openmrs-contrib-android-client/pull/979 | Under Review |
-|AC-1056|https://github.com/openmrs/openmrs-contrib-android-client/pull/980 | Under Review |
-|AC-1057|https://github.com/openmrs/openmrs-contrib-android-client/pull/981 | Under Review |
-|AC-1058|https://github.com/openmrs/openmrs-contrib-android-client/pull/982 | Under Review |
+|AC-1052|https://github.com/openmrs/openmrs-contrib-android-client/pull/976 | Merged |
+|AC-1053|https://github.com/openmrs/openmrs-contrib-android-client/pull/977 | Merged |
+|AC-1054|https://github.com/openmrs/openmrs-contrib-android-client/pull/978 | Merged |
+|AC-1055|https://github.com/openmrs/openmrs-contrib-android-client/pull/979 | Merged |
+|AC-1056|https://github.com/openmrs/openmrs-contrib-android-client/pull/980 | Merged |
+|AC-1057|https://github.com/openmrs/openmrs-contrib-android-client/pull/981 | Merged |
+|AC-1058|https://github.com/openmrs/openmrs-contrib-android-client/pull/982 | Merged |
 
 **Talk Thread links**:
 
